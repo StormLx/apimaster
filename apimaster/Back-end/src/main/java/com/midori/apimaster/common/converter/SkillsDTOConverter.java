@@ -1,4 +1,4 @@
-package com.midori.apimaster.common.DTO.converter;
+package com.midori.apimaster.common.converter;
 
 import com.midori.apimaster.common.DTO.SkillsDTO;
 import com.midori.apimaster.dao.entity.SkillsEntity;

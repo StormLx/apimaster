@@ -1,7 +1,7 @@
 package com.midori.apimaster.api;
 
 import com.midori.apimaster.common.DTO.ResponseDTO;
-import com.midori.apimaster.common.DTO.converter.SkillsDTOConverter;
+import com.midori.apimaster.common.converter.SkillsDTOConverter;
 import com.midori.apimaster.service.SkillsService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
